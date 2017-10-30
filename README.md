@@ -31,7 +31,7 @@ console.log("Tutaj możesz programować w JavaScript");
 ```
 5. Przejdź do stworzonego wcześniej folderu i otwórz plik HTML za pomocą przeglądarki.
 6. Naciśnij w dowolnym miejscu na stronie prawy przycisk myszy i wybierz opcję *Zbadaj*.
-7. W wyświetlonym oknie wybierz zakładkę *Console*. To konsola, w której będą wypisywane dane przez polecenie `console.log()` oraz błędy programu.
+7. W wyświetlonym oknie wybierz zakładkę *Console*. To konsola, w której będą wypisywane dane przez polecenie `console.log` oraz błędy programu.
 
 
 
