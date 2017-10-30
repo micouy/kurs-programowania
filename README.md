@@ -9,7 +9,7 @@ W tym repozytorium znajdziesz pliki ze wszystkimi materiałami omawianymi na kur
 * [jsfiddle](https://jsfiddle.net/) - online
 
 ## Jak zacząć?
-Jeżeli dopiero zaczynasz naukę JavaScript i nie jesteś pewny(a) swoich umiejętności, skorzystaj z edytorów online - [repl it](https://repl.it/languages/javascript) i [jsfiddle](https://jsfiddle.net/). Czytaj po kolei materiały znajdujące się w folderze *js* i wykonuj ćwiczenia.
+Jeżeli dopiero zaczynasz naukę JavaScript i nie jesteś pewny(a) swoich umiejętności, skorzystaj z edytorów online - [repl it](https://repl.it/languages/javascript) i [jsfiddle](https://jsfiddle.net/). Czytaj po kolei materiały znajdujące się w ponumerowanych folderach i wykonuj ćwiczenia.
 
 Jeżeli orientujesz się w podstawach JavaScript i znasz nieco HTML, spróbuj stworzyć plik HTML ze skryptem JavaScript w ten sposób:
 1. Stwórz na pulpicie folder i nadaj mu dowolną nazwę.
