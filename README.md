@@ -1,5 +1,5 @@
 # Kurs programowania 2017/2018
-W tym repozytorium znajdziesz pliki ze wszystkimi materiałami omawianymi na kursie.
+W tym repozytorium znajdziesz pliki ze wszystkimi materiałami omawianymi na kursie. Spis treści znajdziesz [tutaj](https://github.com/micouy/kurs_programowania/blob/master/spis_tresci.md).
 
 ## Edytory
 * Notatnik
