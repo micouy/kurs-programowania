@@ -76,7 +76,7 @@ Tworzymy zmienną `x` i nadajemy jej wartość `10`. Wypisujemy ją w konsoli, a
 5
 ```
 
-Zmienne mogą również przechowywać ciągi znaków, czyli stringi, np:
+Zmienne mogą również przechowywać ciągi znaków (`string`), np:
 ```javascript
 var x = "To jest ciąg znaków.";
 console.log("Mogę wypisać ten ciąg znaków.");
@@ -144,5 +144,5 @@ Wszystkie wymienione operatory działają również z liczbami ujemnymi i z prze
 
 ## Ćwiczenia
 * Przedstaw się używając polecenia `console.log`.
-* Stwórz dwie zmienne, nadaj im wartości różnych typów (number, string).
-* Stwórz dwie zmienne, nadaj pierwszej wartość typu number, a drugiej wartość, która będzie wynikiem działania na pierwszej zmiennej
+* Stwórz dwie zmienne, nadaj im wartości różnych typów (`number`, `string`).
+* Stwórz dwie zmienne, nadaj pierwszej wartość typu `number`, a drugiej wartość, która będzie wynikiem działania na pierwszej zmiennej

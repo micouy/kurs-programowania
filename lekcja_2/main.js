@@ -1,10 +1,13 @@
-// LOGIKA CZ. 1
+// Instrukcje warunkowe i boolean
 
 
-// boolean - typ zmiennej o wartości 'prawda' lub 'fałsz'
+// Boolean
+
 var a = true;
 var b = false;
 
+
+// Instrukcje warunkowe
 
 var a = true;
 
@@ -14,7 +17,6 @@ if (a) {
 
 // output:
 // a jest prawdziwe.
-
 
 var a = false;
 
@@ -26,7 +28,6 @@ if (a) {
 
 // output:
 // a nie jest prawdziwe.
-
 
 var a = false;
 var b = false
@@ -45,7 +46,6 @@ if (a) {
 // output:
 // a, b i c nie są prawdziwe.
 
-
 var a = false;
 var b = false
 var c = true;
@@ -63,7 +63,6 @@ if (a) {
 // output:
 // a i b nie są prawdziwe, c jest prawdziwe.
 
-
 var a = true;
 var b = true;
 
@@ -78,7 +77,6 @@ if (b) {
 // output:
 // a jest prawdziwe.
 // b jest prawdziwe.
-
 
 var a = false;
 var b = 0;

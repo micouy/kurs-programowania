@@ -1,8 +1,8 @@
-# Instrukcje warunkowe
+# Instrukcje warunkowe  i boolean
 W praktycznie każdym programie znajdują się instrukcje warunkowe. Są to polecenia, które zostaną wykonane tylko i wyłącznie, jeśli w danym momencie zajdzie dany warunek. W codziennym życiu również wykorzystujemy instrukcje warunkowe, np. kiedy mówimy "Idź do sklepu i kup 10 bułek. Jeżeli nie będzie bułek, to kup chleb.". Zanim nauczymy się tworzyć instrukcje warunkowe, musimy poznać nowy typ zmiennej.
 
 ## Boolean
-Boolean (bool) to typ zmiennej, który może przyjąć tylko dwie wartości - prawdziwą lub fałszywą (true lub false). Działa to tak samo jak w logice. Takie zmienne tworzy się w ten sam sposób, jak pozostałe:
+`boolean` (`bool`) to typ zmiennej, który może przyjąć tylko dwie wartości - prawdziwą lub fałszywą (`true` lub `false`). Działa to tak samo jak w logice. Takie zmienne tworzy się w ten sam sposób, jak pozostałe:
 ```javascript
 var x = true;
 var y = false;
