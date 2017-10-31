@@ -71,6 +71,7 @@ Zagnieżdżone instrukcje warunkowe to nic innego niż instrukcje warunkowe wewn
 ```javascript
 var swieciSlonce = true;
 var wiejeWiatr = true;
+
 if (swieciSlonce) {
     if (wiejeWiatr) {
         console.log("Ubiorę lekką kurtkę.");
