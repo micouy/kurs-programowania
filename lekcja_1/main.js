@@ -3,10 +3,10 @@
 
 // wypisywanie w konsoli
 
-console.log("console.log wypisuje rzeczy w konsoli");
-console.log("mogą to być także liczby");
+console.log("Polecenie console.log wypisuje rzeczy w konsoli.");
+console.log("Mogą to być także liczby...");
 console.log(10);
-console.log("i liczby z przecinkiem");
+console.log("...oraz liczby z przecinkiem.");
 console.log(5.7);
 
 

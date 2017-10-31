@@ -1,18 +1,18 @@
 # Wypisywanie w konsoli, zmienne i operatory matematyczne
 ## Wypisywanie w konsoli
-Na początku nauki JavaScript będziemy często posługiwać się funkcją `console.log`. Funkcja to instrukcja dla programu. Pozwala ona wyświetlić tekst w konsoli. Aby napisać "Witaj świecie!", musimy przekazać do tej instrukcji wspomniany wcześniej tekst. Musimy pamiętać o takich rzeczach jak:
+Na początku nauki JavaScript będziemy często posługiwać się funkcją `console.log`. Funkcja to instrukcja dla programu. Pozwala ona wyświetlić tekst w konsoli. Aby napisać "Witaj, świecie!", musimy przekazać do tej instrukcji wspomniany wcześniej tekst. Musimy pamiętać o takich rzeczach jak:
 * Nazwa funkcji - `console.log`.
 * Nawias otwierający - `(`
-* Parametr, w tym przypadku tekst (cudzysłowy są bardzo ważne) - `"Witaj świecie!"`
+* Parametr, w tym przypadku tekst (cudzysłowy są bardzo ważne) - `"Witaj, świecie!"`
 * Nawias zamykający - `)`
 * Średnik na końcu linii - `;`
 
 W praktyce wygląda to w ten sposób:
 ```javascript
-console.log("Witaj świecie!");
+console.log("Witaj, świecie!");
 ```
 
-W naszej konsoli pojawi się tekst - `Witaj świecie!`.
+W naszej konsoli pojawi się tekst - `Witaj, świecie!`.
 
 ## Zmienne
 Zmienne to bardzo ważna rzecz w programowaniu. Działają tak samo jak w matematyce - zapewniają nam możliwość odczytu wartości (np. liczby) przechowywanej gdzieś w pamięci programu i jej zmiany.
@@ -76,6 +76,19 @@ Tworzymy zmienną `x` i nadajemy jej wartość `10`. Wypisujemy ją w konsoli, a
 5
 ```
 
+Zmienne mogą również przechowywać ciągi znaków, czyli stringi, np:
+```javascript
+var x = "To jest ciąg znaków.";
+console.log("Mogę wypisać ten ciąg znaków.");
+console.log(x);
+```
+
+W konsoli pojawi się:
+```
+Mogę wypisać ten ciąg znaków.
+To jest ciąg znaków.
+```
+
 ## Operatory matematyczne
 W omawianych przykładach poznałeś(aś) już jeden operator matematyczny - `+`. Operatorami nazywamy znaki lub wyrażenia, które upraszczają zapis różnych instrukcji. Nie mamy na przykład polecenia `dodaj`, tylko wspomniany wcześniej operator `+`. Kolejnym jest znak równości, który w programowaniu nie oznacza równości wartości lewego i prawego wyrażenia, tylko przypisywanie wartości zmiennej.
 
@@ -128,3 +141,8 @@ Przykładami operatorów są:
 * `/=` - oznacza "zmniejsz wartość zmiennej daną ilość razy". 
 
 Wszystkie wymienione operatory działają również z liczbami ujemnymi i z przecinkiem.
+
+## Ćwiczenia
+* Przedstaw się używając polecenia `console.log`.
+* Stwórz dwie zmienne, nadaj im wartości różnych typów (number, string).
+* Stwórz dwie zmienne, nadaj pierwszej wartość typu number, a drugiej wartość, która będzie wynikiem działania na pierwszej zmiennej
