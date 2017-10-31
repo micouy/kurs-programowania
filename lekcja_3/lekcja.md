@@ -61,6 +61,7 @@ q \ p | 0 | 1
 Operator "lub" daje wartość prawdziwą wtedy, gdy warunek przynajmniej po jednej z jego stron jest prawdziwy:
 
 **q || p**
+
 q \ p | 0 | 1
 ---|---|---
 0 | 0 | 1
