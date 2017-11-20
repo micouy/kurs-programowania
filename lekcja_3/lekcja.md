@@ -42,7 +42,7 @@ Operator "lub" ma symbol `||`. Znak pionowej kreski znajdziesz nad klawiszem Ent
 var padaDeszcz = false;
 var padaSnieg = true;
 
-if (padaDeszcz && padaSni) {
+if (padaDeszcz || padaSnieg) {
     console.log("Ubiorę kurtkę nieprzemakalną.");
 }
 ```
